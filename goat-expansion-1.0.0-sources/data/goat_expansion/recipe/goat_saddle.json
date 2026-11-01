@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "WWW",
+    "WSW",
+    "WWW"
+  ],
+  "key": {
+    "W": "#minecraft:wool",
+    "S": "minecraft:saddle"
+  },
+  "result": {
+    "id": "goat_expansion:goat_saddle",
+    "count": 1
+  }
+}

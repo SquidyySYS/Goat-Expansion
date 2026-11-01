@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.sqdy.goat_expansion.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "GoatEntityMixin",
+    "LivingEntityMixin",
+    "ServerGamePacketListenerImplMixin",
+    "CraftingMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

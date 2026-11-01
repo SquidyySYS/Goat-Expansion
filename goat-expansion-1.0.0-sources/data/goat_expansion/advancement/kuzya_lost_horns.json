@@ -1,0 +1,16 @@
+{
+  "parent": "goat_expansion:one_horn_goat",
+  "display": {
+    "icon": { "id": "minecraft:rabbit_stew" },
+    "title": { "translate": "advancements.goat_expansion.kuzya_lost_horns.title" },
+    "description": { "translate": "advancements.goat_expansion.kuzya_lost_horns.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "awarded": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

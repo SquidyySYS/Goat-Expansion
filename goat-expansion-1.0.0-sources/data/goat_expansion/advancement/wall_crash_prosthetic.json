@@ -1,0 +1,14 @@
+{
+  "parent": "goat_expansion:craft_prosthetic",
+  "display": {
+    "icon": { "id": "minecraft:cracked_stone_bricks" },
+    "title": { "translate": "advancements.goat_expansion.wall_crash_prosthetic.title" },
+    "description": { "translate": "advancements.goat_expansion.wall_crash_prosthetic.description" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "awarded": { "trigger": "minecraft:impossible" }
+  }
+}
