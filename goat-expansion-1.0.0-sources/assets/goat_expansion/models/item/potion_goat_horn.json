@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "goat_expansion:item/potion_goat_horn"
+  }
+}

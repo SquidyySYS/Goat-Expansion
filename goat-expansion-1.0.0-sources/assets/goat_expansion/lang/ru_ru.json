@@ -1,0 +1,28 @@
+{  
+ "item.goat_expansion.goat_saddle": "Козье седло",  
+ "item.goat_expansion.iron_horn_cap": "Железный наконечник для рогов",  
+ "item.goat_expansion.potion_goat_horn": "Рог с зельем",
+ "item.goat_expansion.iron_prosthetic_horns": "Протез рога",
+ "item.goat_expansion.goat_pouch": "Козий мешочек",
+
+ "advancements.goat_expansion.root.title": "Goat Expansion",
+  "advancements.goat_expansion.root.description": "Новая жизнь для горных коз",
+
+  "advancements.goat_expansion.tame_goat.title": "Козья Ностра",
+  "advancements.goat_expansion.tame_goat.description": "Завоюйте доверие горного жителя с помощью деликатеса.",
+
+  "advancements.goat_expansion.craft_prosthetic.title": "Согнуть в бараний рог",
+  "advancements.goat_expansion.craft_prosthetic.description": "Выкуйте протез взамен утраченного рога вашего питомца.",
+
+  "advancements.goat_expansion.wall_crash_prosthetic.title": "Стены созданы, чтобы их ломать... или нет",
+  "advancements.goat_expansion.wall_crash_prosthetic.description": "Разгонитесь на козе с протезами до максимальной скорости и проверьте на прочность стену.",
+
+  "advancements.goat_expansion.shock_therapy.title": "Шоковая терапия",
+  "advancements.goat_expansion.shock_therapy.description": "Отправьте врага в нокдаун лобовым тараном на максимальном ускорении с двумя протезами.",
+
+  "advancements.goat_expansion.one_horn_goat.title": "Бодливой корове Бог рог не даёт...",
+  "advancements.goat_expansion.one_horn_goat.description": "Оставьте питомца с одним рогом.",
+
+  "advancements.goat_expansion.kuzya_lost_horns.title": "Это потеря потерь!",
+  "advancements.goat_expansion.kuzya_lost_horns.description": "Допустите, чтобы козёл Кузя остался совершенно без рогов."
+}
